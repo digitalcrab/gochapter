@@ -1,1 +1,3 @@
-/.idea
+.idea/
+*/homework/build/
+*/homework/vendor/
