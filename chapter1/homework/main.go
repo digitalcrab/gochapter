@@ -50,9 +50,9 @@ type (
 
 var (
 	opts struct {
-		Places     []string `short:"p" description:"Google Place Id" env:"CHAPTER1_PLACES" env-delim:"," required:"true"`
-		OutputFile string   `short:"o" description:"Output file" env:"CHAPTER1_OUTPUT" required:"true"`
-		GoogleKey  string   `short:"k" description:"Google Places API Key" env:"CHAPTER1_GOOGLE_KEY" required:"true"`
+		Places     []string `short:"p" description:"Google Place Id" required:"true"`
+		OutputFile string   `short:"o" description:"Output file" required:"true"`
+		GoogleKey  string   `short:"k" description:"Google Places API Key" required:"true"`
 	}
 )
 

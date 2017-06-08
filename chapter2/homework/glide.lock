@@ -1,0 +1,12 @@
+hash: 496a945bdaec4a4dcbbd4142360f71b7ecc44f9d4e511d92c67104cd38c567b3
+updated: 2017-06-08T22:40:32.405450132+02:00
+imports:
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: bcd8bc72b08df0f70df986b97f95590779502d31
+- name: github.com/jessevdk/go-flags
+  version: 48cf8722c3375517aba351d1f7577c40663a4407
+- name: googlemaps.github.io/maps
+  version: b0c0aaf9aeaa6218a0965867bdeb303fc312b889
+testImports: []

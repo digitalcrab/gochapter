@@ -28,6 +28,7 @@ Build, run, and verify.
 
 ```bash
 make
+
 build/homework1 \
     -p "ChIJS_tHEEfaFkYR6o_AO-5iJeg" \
     -p "ChIJd312ZkkNOUYRCAretD6gQp4" \
@@ -36,5 +37,6 @@ build/homework1 \
     -p "ChIJAVkDPzdOqEcRcDteW0YgIQQ" \
     -o "build/out.json" \
     -k "GOOGLE API KEY"
+
 cat build/out.json
 ```
