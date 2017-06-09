@@ -33,5 +33,5 @@ To get a human-readable summary of the license click [here](http://creativecommo
 
 # Authors
 
-- Maksim Naumov (@digitalcrab)
-- Vladimir Bolshakov
+- Maksim Naumov ([@digitalcrab](https://github.com/digitalcrab))
+- Vladimir Bolshakov ([@vbolshakov87](https://github.com/vbolshakov87))

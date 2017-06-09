@@ -38,7 +38,7 @@ After the meeting, everyone receives a homework task, which will be shared on
  
 We encourage every chapter member to present learnings and share insights from 
 homework tasks. In the beginning, however, the meetings will be facilitated by 
-Maksim Naumov (@digitalcrab).
+Maksim Naumov ([@digitalcrab](https://github.com/digitalcrab)).
 
 ## Prerequisites
 
